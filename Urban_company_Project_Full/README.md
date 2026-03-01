@@ -1,3 +1,5 @@
+NOTE: The analysis was conducted as part of an evaluation assessment using provided fictional data.
+
 Project Context
 
 Urban Company works with multiple third-party partner companies to deliver hourly cleaning services (2/3/4/5-hour jobs) to customers. Cleaners are not directly employed by UC but are supplied by partner companies. Ensuring consistent service quality and optimal cleaner utilisation is critical to improving customer experience, repeat bookings, and partner earnings.
