@@ -3,4 +3,6 @@ This repository contains my practice work in:
 - SQL
 - Power BI
 - powerpoint
+- Academic Research work, projects
+- job simulation projects
 Each folder has project files and screenshots.
